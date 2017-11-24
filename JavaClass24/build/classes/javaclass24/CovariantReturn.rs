@@ -1,0 +1,4 @@
+javaclass24.SuperA
+javaclass24.Base
+javaclass24.SubB
+javaclass24.CovariantReturn
